@@ -1,1 +1,4 @@
 ollama
+openai
+pytest
+dotenv
